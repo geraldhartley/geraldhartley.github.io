@@ -1,0 +1,28 @@
+---
+layout: page
+title: Authors
+banner: true
+---
+
+<div class="archives">
+    <ul class="nav nav-pills">
+        {% for author in site.data.authors %}
+        <li role="presentation"><a href="#{{ author[0] | slugify }}" class="post-tag">{{ author[1].name }}</a></li>
+        {% endfor %}
+    </ul>
+    <hr />
+    {% for author in site.data.authors %}
+    <fieldset>
+        <legend id="{{ author[0] | slugify }}">{{ author[1].name }}</legend>
+
+        {% assign author_posts = site.posts | where: "author", author[0] %}
+        <ul>
+            {% for post in author_posts %}
+            <li>
+                <span class="title"><a href="{{ post.url }}">{{post.title}}</a></span>
+            </li>
+            {% endfor %}
+        </ul>
+    </fieldset>
+    {% endfor %}
+</div>

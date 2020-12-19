@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+BI Developer, random thinker, muser, crooner, occasional imposter. Based in Christchurch, New Zealand. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Make it simple, make it work, make it go!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+gerald@geraldhartley.com

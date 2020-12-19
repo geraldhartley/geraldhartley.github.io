@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Starting Up with GitHub Pages
+author: gerald-hartley
 published: true
 ---
 
@@ -31,7 +32,3 @@ There'll be a lot of playing around in these early days, but I intend that this 
 
 Back to this setup, need to restart... ahhh, typical!
 
----- 
-Signing off!
-
-G
