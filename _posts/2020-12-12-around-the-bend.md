@@ -33,9 +33,9 @@ Toastmasters is a global organisation, full of like-minded members, who wish to 
 
 Everyone has the opportunity to learn, grow, and improve, and support each other along the way. Think to you did terrible on on stage this morning? Who cares! The clock resets at the end of each meeting, and you get to try it again next time!
 
-Maybe you just <b>think</b> you did bad, and are perhaps suffering from that awful <a href="https://www.healthline.com/health/negativity-bias">negativity bias</a> that we all encounter. Your evaluator will soon point out the things you did well, and provide useful recommendations that you get to try out next time.
+Maybe you just <b>think</b> you did bad, and are down in the dumps due to the dreaded <a href="https://www.healthline.com/health/negativity-bias">negativity bias</a> that we all encounter. Your evaluator will soon point out the things you did well, and provide useful recommendations that you get to try out next time.
 
-On the topic of nerves, once you've joined a club you like, and have a few meetings under your belt, you will have a muuuuch better handle on the nerves since you first started. These nerves never really go away (nor should they, considering they provide a <a href="https://www.verywellmind.com/what-is-the-sympathetic-nervous-system">very important function</a>), but by gaining a tiny bit of exposure standing in front of an audience, week-after-week, you'll be in prime form to take on these conferences going forward. 
+On the topic of nerves, once you've joined a club you like, and have a few meetings under your belt, you will have a muuuuch better handle on the nerves since you first started. These nerves never really go away (nor should they, considering they provide a <a href="https://biologydictionary.net/sympathetic-nervous-system/">very important function</a>), but by gaining a tiny bit of exposure standing in front of an audience, week-after-week, you'll be in prime form to take on these conferences going forward. 
 
 <div style="text-align : center; padding-top : 20px; padding-bottom : 20px">
     <img src="/images/boaters-toastmasters.jpg" style="display: block; margin-left: auto; margin-right: auto; border-radius: 8px;"/>
