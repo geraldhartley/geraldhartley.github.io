@@ -2,14 +2,14 @@
 {% assign author = site.data.authors[page.author] %}
 
 {% if author.bio %}
-<div class="container" style = "padding-top : 50px ;" >
-    <hr />
+<p style = "padding-top : 20px ;" ><hr /></p>
+<div class="container"  >
     {% if author.image %}
-    <div class="img"  style="display : inline-block; margin-left : 10px">
+    <div class="img"  style="display : inline-block; margin-right : 10px ">
         <img src="{{author.image}}" width="130">
     </div>
     {% endif %}
-    <div class="bio" style="display : inline-block; margin-left : 20px; ">
+    <div class="bio" style="display : inline-block; ">
         <h2>About <a href="{% link authors.html %}#{{ page.author }}" target="_blank">{{ author.name }}</a></h2>
         <p>{{ author.bio }}</p>
         <p>
