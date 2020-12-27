@@ -13,14 +13,8 @@
         <h2>About <a href="{% link authors.html %}#{{ page.author }}" target="_blank">{{ author.name }}</a></h2>
         <p>{{ author.bio }}</p>
         <p>
-            {% if author.github %}
-                <a href="{{author.github}}" title="GitHub"><i class="svg-icon github"></i></a>
-            {% endif %}
-            {% if author.twitter %}
-                <a href="{{author.twitter}}" title="Twitter"><i class="svg-icon twitter"></i></a>
-            {% endif %}
-            {% if author.facebook %}
-                <a href="{{author.facebook}}" title="Twitter"><i class="svg-icon facebook"></i></a>
+            {% if author.email %}
+                <a href="{{author.email}}" title="Email"><i class="svg-icon email"></i></a>
             {% endif %}
         </p>
     </div>
