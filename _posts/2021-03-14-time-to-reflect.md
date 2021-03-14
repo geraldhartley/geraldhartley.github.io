@@ -22,5 +22,3 @@ If I could do it all over again, I wouldn't change a thing... but if I had to, I
 
 Forever Grateful - 
 Gerald Hartley (FGH)
-- 
-- 
