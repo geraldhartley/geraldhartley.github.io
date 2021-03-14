@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Getting Started with Github Pages
+title: Taking Time to Reflect
 author: gerald-hartley
 published: true
 ---
 
-# Taking Time to Reflect
 
 As I mentioned on a recent <a href="https://www.linkedin.com/in/geraldchartley?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAYm40QBDdTTXsUwaKgXdaHkwPZRSmfMuNM&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BXoSfzQwtQmudhO6jZIsuRw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_detail_base-actor_container&lici=evQrLrPSRq%2ByRwhIUdLK2w%3D%3D">LinkedIn Post</a>, what a whirlwind of a weekend so far!
 
