@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Github Pages
 author: gerald-hartley
-published: true
+published: false
 ---
 
 Howdy Folks! It's been a minute since my last post, but I've been working on a presentation for my next upcoming conference <a href="https://newstarsofdata.com/" >New Stars Of Data</a>. I might have mentioned about this in one of my earlier posts, but boy, does it come around quickly!
