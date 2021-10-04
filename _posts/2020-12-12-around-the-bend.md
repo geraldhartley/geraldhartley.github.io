@@ -5,9 +5,7 @@ author: gerald-hartley
 published: true
 ---
 
-Hey folks, it's been a minute!
-
-Exciting news, hot off the press! We'll have a proper domain for this blog site very soon! Lets call it the start of many great things to come....
+Hey folks, exciting news hot off the press! We'll have a proper domain for this blog site very soon! Lets call it the start of many great things to come....
 
 <h2>Azure Data Factory - New Blogs are a Coming!</h2>
 It's been a heck if a year to say the least, but now that we're FINALLY coming up to the home stretch of 2020 (WOOHOO!), I've got some breathing space to post few more blog posts. The first few will be based around Azure Data Factory, which I've been working with for the last few months. Hopefully the next one will be a guide on how I put this whole thing together, which I found was surprisingly quick and relatively painless. 

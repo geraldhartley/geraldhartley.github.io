@@ -5,13 +5,7 @@ author: gerald-hartley
 published: true
 ---
 
-# Key Headlines
-
-## What's up?
-
-Howdy Folks!
-
-It's been a minute since my last post, but I've been working on a presentation for my next upcoming conference <a href="https://newstarsofdata.com/" >New Stars Of Data</a>. I might have mentioned about this in one of my earlier posts, but boy, does it come around quickly!
+Howdy Folks! It's been a minute since my last post, but I've been working on a presentation for my next upcoming conference <a href="https://newstarsofdata.com/" >New Stars Of Data</a>. I might have mentioned about this in one of my earlier posts, but boy, does it come around quickly!
 
 I managed to get the chance to do my first dry run of this session in-person, at my local <a href="https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand/">SQL Server and Data Management User Group</a> in Christchurch. [<a href="https://www.youtube.com/watch?v=150NsJws_Eg">Video</a>]
 
