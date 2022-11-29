@@ -22,5 +22,4 @@ Whether there be ups, downs or in-betweens, I'm excited to share this informatio
 Time to make a start!
 Gerald
 
-
 PS. Despite how awful I thought I did, I was eventually offered the role, which I have since accepted!
