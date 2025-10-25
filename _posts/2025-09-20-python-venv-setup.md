@@ -1,15 +1,13 @@
 ---
 layout: post
-title: dbt quick start with Azure SQL Database
+title: Set up a Python Virtual Environment with venv
 author: gerald-hartley
 published: true
 ---
 
-In a <a href="./2025-08-23-wsl-ubuntu-setup.md">previous post</a>, we've set up our Windows Subsystem for Linux (WSL) environment, and have chosen Ubuntu as our distribution of choice.
+In a <a href="./2025-08-23-wsl-ubuntu-setup.md">previous post</a>, we've set up our Windows Subsystem for Linux (WSL) environment, and have chosen Ubuntu as our distribution of choice. Our next step will be to configure Python, and set up a new Python virtual environment using venv.
 
-Our next step will be to configure Python, and set up a new Python virtual environment using venv.
-
-Python by far the most popular coding language used within the Modern Data Platform. While it's arguable that you won't need a 'deep' knowledge with Python to be productive, knowing how to ingest, manipulate and transform data is a minimum requirement for any Data Engineer or Data Scientist.
+### Why would you use this? 
 
 Each Python script or project you run will have a specific set of libraries and packages required to run. Some of these libraries and packages will require specific versions to run, which may not be cross-compatible between projects.
 
