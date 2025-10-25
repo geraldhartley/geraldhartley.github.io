@@ -19,7 +19,7 @@ As I gear up to return, my primary focus will be on evaluations. It's interestin
 
 By gaining a deeper understanding of the evaluation process and knowing what to look for, I'll not only be assisting others in their growth but also learning which elements to incorporate and avoid in my own presentations.
 
-My next undertaking revolves around a program developed by David JP Philips, who conducted an extensive study on the techniques successful speakers employ in their presentations. He distilled these findings into 110 effective communication and public speaking techniques. You can find his insightful TED Talk here: [link]
+My next undertaking revolves around a program developed by David JP Philips, who conducted an extensive study on the techniques successful speakers employ in their presentations. He distilled these findings into 110 effective communication and public speaking techniques. You can find his insightful TED Talk here: <a href="https://www.youtube.com/watch?v=K0pxo-dS9Hc">The 110 techniques of communication and public speaking | David JP Phillips</a>
 
 Each of these habits and techniques serves as a powerful tool in the toolkit of a polished speaker. My long-term goal is to internalize these practices, utilizing them not only in my own presentations but also offering valuable feedback to fellow speakers I'm guiding along the way.
 
